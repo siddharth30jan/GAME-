@@ -1,2 +1,2 @@
 # GAME-
-Used Dom Manipulation using JAVASCRIPT
+Used DOM Manipulation using JAVASCRIPT
